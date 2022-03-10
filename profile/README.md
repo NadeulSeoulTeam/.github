@@ -1,17 +1,19 @@
 # 🚵‍♂️ 나들서울
 ![logo1](https://user-images.githubusercontent.com/87463504/157665393-4e8397f0-1f5d-489e-9627-d00126f67e71.png)
 
-## Overview
+## 🔍 Overview
 
 *노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결사**, 나들서울*
 
-나만의 서울 나들이 코스를 공유하고 다른 사용자들이 큐레이팅 해 놓은 코스를 구경, 저장, 추천할 수 있는 서울 나들이 코스 공유 SNS
+나만의 서울 나들이 코스를 공유하고 다른 사용자들이 큐레이팅 해 놓은 코스를 구경, 저장, 추천할 수 있는 **서울 나들이 코스 공유 SNS**
 
-## Getting Started
+## 🎈 Getting Started
 
+```
 링크 준비중 (ver 1.1)
+```
 
-## Feature
+## 👀 Feature
 ![image-20220307003157104](https://user-images.githubusercontent.com/87463504/157665489-897099b0-6c6d-4658-a2e8-f576a5b7d7c5.png)
 
 ### 1. 회원가입/로그인
@@ -42,16 +44,44 @@
 - 팔로잉/팔로워 리스트 확인 가능
 - 1:1 문의 게시판을 통해 개발자와 소통 가능
 
-## Development
+## 🛠 Development
 ![image-20220307002233783](https://user-images.githubusercontent.com/87463504/157665528-45e2e077-d396-4803-b8da-abea02ca1f03.png)
 
-## Progress
+### Built With
 
-**2022-01 ~ 2022-02** 프로젝트 ver 1.1
+#### Frontend
 
-**2022-03 ~** 코드 리팩토링 중
+- React
+- Redux
+- Redux-Toolkit
+- Styled-Components
+- Kakao Map API
+- Material-UI
 
-## Team
+#### Backend
+
+- -
+
+#### Deployment
+
+- AWS EC2
+- Ngnix
+
+### Collaboration Tool
+
+- Github
+- Jira
+- [Notion](https://polite-story-ce6.notion.site/76a2a331b38c4aea90f0477a14e3be83)
+- Mattermost
+- Discord
+
+## 😎 Progress
+
+**2022.01 - 2022.02** 프로젝트 ver 1.1
+
+**2022.03 -** 코드 리팩토링
+
+## 👫 Team
 
 **알**아서 **잘 딱 깔**끔하게 **삼**팀
 
@@ -61,4 +91,4 @@
 - [AYeong Lee](https://github.com/dgh03207): BE
 - [ljy0513](https://github.com/ljy0513): BE
 - [joojeehwan](https://github.com/joojeehwan): FE
-- [yoonnotyoun](https://github.com/yoonnotyoun): FE
+- [yoonnotyoun](https://github.com/yoonnotyoun): FE, 팀 리더, 기획, 디자인, 로그인/회원가입, 메인페이지, CSS 스타일링
