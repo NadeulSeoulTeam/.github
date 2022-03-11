@@ -106,7 +106,7 @@ _노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결�
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/eye1228">
+      <a href="https://github.com/ljy0513">
         <img src="https://avatars.githubusercontent.com/u/75081694?v=4" alt="이지윤 프로필" />
       </a>
     </td>
@@ -138,7 +138,7 @@ _노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결�
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/eye1228">
+      <a href="https://github.com/ljy0513">
         이지윤
       </a>
     </td>
