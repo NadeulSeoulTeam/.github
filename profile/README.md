@@ -1,9 +1,10 @@
 # 🚵‍♂️ 나들서울
+
 ![logo1](https://user-images.githubusercontent.com/87463504/157665393-4e8397f0-1f5d-489e-9627-d00126f67e71.png)
 
 ## 🔍 Overview
 
-*노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결사**, 나들서울*
+_노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결사**, 나들서울_
 
 나만의 서울 나들이 코스를 공유하고 다른 사용자들이 큐레이팅 해 놓은 코스를 구경, 저장, 추천할 수 있는 **서울 나들이 코스 공유 SNS**
 
@@ -14,6 +15,7 @@
 ```
 
 ## 👀 Feature
+
 ![image-20220307003157104](https://user-images.githubusercontent.com/87463504/157665489-897099b0-6c6d-4658-a2e8-f576a5b7d7c5.png)
 
 ### 1. 회원가입/로그인
@@ -45,6 +47,7 @@
 - 1:1 문의 게시판을 통해 개발자와 소통 가능
 
 ## 🛠 Development
+
 ![image-20220307002233783](https://user-images.githubusercontent.com/87463504/157665528-45e2e077-d396-4803-b8da-abea02ca1f03.png)
 
 ### Built With
@@ -84,6 +87,93 @@
 ## 👫 Team
 
 **알**아서 **잘 딱 깔**끔하게 **삼**팀
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/EJKim3191">
+        <img src="https://avatars.githubusercontent.com/u/95759697?v=4" alt="김응주 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nesllewr">
+        <img src="https://avatars.githubusercontent.com/u/41321080?v=4" alt="남은성 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dgh03207">
+        <img src="https://avatars.githubusercontent.com/u/58917737?v=4" alt="이아영 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eye1228">
+        <img src="https://avatars.githubusercontent.com/u/75081694?v=4" alt="이지윤 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joojeehwan">
+        <img src="https://avatars.githubusercontent.com/u/62932147?v=4" alt="주지환 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yoonnotyoun">
+        <img src="https://avatars.githubusercontent.com/u/87463504?v=4" alt="한지윤 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/EJKim3191">
+        김응주
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nesllewr">
+        남은성
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dgh03207">
+        이아영
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eye1228">
+        이지윤
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joojeehwan">
+        주지환
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yoonnotyoun">
+        한지윤
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        FE
+    </td>
+    <td align="center">
+        BE
+    </td>
+    <td align="center">
+        BE
+    </td>
+    <td align="center">
+        BE
+    </td>
+    <td align="center">
+        FE
+    </td>
+    <td align="center">
+        FE
+    </td>
+  </tr>
+</table>
 
 - [EJKim3191](https://github.com/EJKim3191): FE
 
