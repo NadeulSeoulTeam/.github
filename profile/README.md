@@ -61,7 +61,11 @@ _노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결�
 
 #### Backend
 
-- -
+- JAVA 11/Gradle
+- Spring Boot
+- ORM(spring data JPA + Querydsl)
+- Srping Security
+- Redis
 
 #### Deployment
 
