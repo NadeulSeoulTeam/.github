@@ -180,7 +180,7 @@ _노는 것도 어려운 2022년의 우리를 위한 **나들이 고민 해결�
 - [EJKim3191](https://github.com/EJKim3191): FE
 
 - [nesllewr](https://github.com/nesllewr): BE
-- [AYeong Lee](https://github.com/dgh03207): BE
+- [AYeong Lee](https://github.com/dgh03207): BE, 기획, 로그인/회원가입, Curation 
 - [ljy0513](https://github.com/ljy0513): BE
 - [joojeehwan](https://github.com/joojeehwan): FE
 - [yoonnotyoun](https://github.com/yoonnotyoun): FE, 팀 리더, 기획, 디자인, 로그인/회원가입, 메인페이지, CSS 스타일링
